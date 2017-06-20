@@ -32,6 +32,9 @@
 			case "gestao-de-frota":
 				$cas = "CAS CORPORATIVO";
 				break;			
+			case "Quatenus - Corp - Contato LP Geral":
+				$cas = "CAS CORPORATIVO";
+				break;	
 			case "quatenus_machine":
 				$cas = "CAS CORPORATIVO";
 				break;
